@@ -1,10 +1,31 @@
+html {
+	height: 100%;
+}
+
 body {
 	background: url(https://www.walldevil.com/wallpapers/h12/wallpapers-pictures-wallpaper-wallpaper06-images-gallery.jpg);
 	background-size: cover;
 	background-position: center;
+	font-family: lato;
+	
 }
 
 #content {
 	text-align: center;
 	padding-top: 25%;
+	color: white;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
+}
+
+hr {
+  	height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px white;
+} 
+
+h1 {
+	font-weight: 700;
+	font-size: 5em;
 }
