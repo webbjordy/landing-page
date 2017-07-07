@@ -1,5 +1,7 @@
 body {
-	background: pink;
+	background: url(https://www.walldevil.com/wallpapers/h12/wallpapers-pictures-wallpaper-wallpaper06-images-gallery.jpg);
+	background-size: cover;
+	background-position: center;
 }
 
 #content {
